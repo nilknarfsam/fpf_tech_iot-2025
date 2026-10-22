@@ -1,3 +1,14 @@
+<!-- organizacao-github:inicio -->
+> [!NOTE]
+> **📌 Organização do GitHub (22/10/2026): 📦 ARQUIVAR**
+>
+> Material do curso de IoT da FPF (fev–mar/2025), boa parte vinda do professor.
+>
+> **Como fazer:** Settings → lá embaixo em **Danger Zone** → **Archive this repository**. Fica só leitura e dá para desarquivar depois.
+>
+> _Nota temporária do Claude. Some quando a organização terminar._
+<!-- organizacao-github:fim -->
+
 # FPF eTech - Curso de Extensão IoT (fev a mar/25)
 Curso de IoT realizado pela FPF Etech entre os meses de fevereiro e março de 2025. Foram explorados os seguintes temas:
 - História do IoT
